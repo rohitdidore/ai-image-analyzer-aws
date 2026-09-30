@@ -15,6 +15,7 @@ When an image is uploaded to Amazon S3, an AWS Lambda function is triggered auto
 - Amazon API Gateway – REST API for retrieving results
 
 ## Architecture
+![AWS Architecture](architecture.png)
 
 S3 → Lambda → Rekognition → DynamoDB → API Gateway
 
