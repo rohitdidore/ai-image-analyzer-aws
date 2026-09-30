@@ -1,6 +1,6 @@
-mport 
 import boto3
-imjsonport uirllib.parse
+import json
+import urllib.parse
 import uuid
 from datetime import datetime
 
